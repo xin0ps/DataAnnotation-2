@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaDB", "PracticaDB\PracticaDB.csproj", "{B72B8557-1367-4ED4-85C1-C0ABAA73B0CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{6FDE2E69-A57D-49D8-BBED-53B94ABAA550}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{7A704EBE-BC02-4472-9796-AAA889C14464}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B72B8557-1367-4ED4-85C1-C0ABAA73B0CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B72B8557-1367-4ED4-85C1-C0ABAA73B0CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B72B8557-1367-4ED4-85C1-C0ABAA73B0CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B72B8557-1367-4ED4-85C1-C0ABAA73B0CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FDE2E69-A57D-49D8-BBED-53B94ABAA550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FDE2E69-A57D-49D8-BBED-53B94ABAA550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FDE2E69-A57D-49D8-BBED-53B94ABAA550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FDE2E69-A57D-49D8-BBED-53B94ABAA550}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A704EBE-BC02-4472-9796-AAA889C14464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A704EBE-BC02-4472-9796-AAA889C14464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A704EBE-BC02-4472-9796-AAA889C14464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A704EBE-BC02-4472-9796-AAA889C14464}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {962F1139-9BBB-4259-A725-2EF8ADDF1523}
+	EndGlobalSection
+EndGlobal
